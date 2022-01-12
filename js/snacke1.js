@@ -13,7 +13,7 @@ if (numberOne > numberTwo){
     message += numberOne;
 } else if (numberOne < numberTwo){
     console.log(numberTwo);
-    message += nomberTwo;
+    message += numberTwo;
 } else{
     message = 'i numeri sono uguali'
 }
